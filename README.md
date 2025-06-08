@@ -19,13 +19,4 @@ This is the **Frontend Landing Page** built as per the assignment requirement.
 - JavaScript
 - Git + GitHub
 
-### Screenshots:
-
-#### 1️⃣ Landing Page Hero Section:
-
-![Landing Page Hero](Images/screenshot_1.png)
-
-#### 2️⃣ Process Section:
-
-![Process Section](Images/screenshot_2.png)
 
